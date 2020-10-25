@@ -27,7 +27,4 @@ Class Kasir extends CI_Controller{
         echo 'Alamat anda adalah '. $params['alamat'] . '\n';
         echo 'SIapa nama anda ?\n';
     }
-    function kirimdata(){
-        echo 'ini aku lagi belajar';
-    }
 }
